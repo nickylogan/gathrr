@@ -13,3 +13,26 @@
 
 # Dependency directories (remove the comment below to include it)
 vendor/
+
+# dependencies
+app/node_modules
+app/.pnp
+app/.pnp.js
+
+# testing
+app/coverage
+
+# production
+app/build
+
+# npm/yarn logs
+app/npm-debug.log*
+app/yarn-debug.log*
+app/yarn-error.log*
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
