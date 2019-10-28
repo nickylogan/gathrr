@@ -1,5 +1,7 @@
 package main
 
+import "github.com/nickylogan/gathrr/internal/antennae"
+
 func main() {
-	// TODO: execute command
+	antennae.Run()
 }

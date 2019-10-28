@@ -1,5 +1,7 @@
 package main
 
+import "github.com/nickylogan/gathrr/internal/transkript"
+
 func main() {
-	// TODO: execute command
+	transkript.Run()
 }
